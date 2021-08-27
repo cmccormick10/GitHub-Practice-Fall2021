@@ -39,7 +39,7 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
+| Connor McCormick        | Wed/Fri 1:25pm    | cmccormick10         | https://github.com/cmccormick10                          |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Wed/Fri 1:25pm    | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
           
